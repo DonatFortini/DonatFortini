@@ -23,7 +23,7 @@ Bienvenue sur mon profil GitHub ! Mon objectif c'est d'utiliser la technologie p
 
 ## 📊 Mon histoire GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=dark)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=DonatFortini&show_icons=true&hide=prs&theme=dark)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonatFortini&layout=compact&theme=dark)
 
 Merci de votre visite ! 🚀
