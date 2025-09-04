@@ -1,7 +1,7 @@
 # Donat Fortini | Développeur Full-Stack  🚀
 
 ## À Propos 👨‍💻
-Actuellement en Master 2 Développement Full-Stack, je suis passionné par l'innovation technologique et le développement de solutions qui impactent positivement notre quotidien. 
+Actuellement doctorant en informatique sur le sujet des digitals twins, je suis passionné par l'innovation technologique et le développement de solutions qui impactent positivement notre quotidien. 
 
 ## Expertise Technique 🛠️
 
