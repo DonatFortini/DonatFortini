@@ -24,29 +24,13 @@ DevOps          → Docker, Git
 
 ## Projets Phares 🌟
 
-### DatScrapper 📊
+### Firefront GIS 🗺️
 
-[![Repo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DonatFortini/datscrapper)
-
-Outil pour la création et l'annotation de datasets
-
-- 🔧 Tech Stack: Rust ( Clap,eframe/egui)
-
-- 🎯 Features:
-
-  - Scraping intelligent et configurable
-
-  - Transformation des images pour étoffer le dataset
-
-  - Système d'annotation configurable
-
-### Eve MapMaker 🗺️
-
-[![Repo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DonatFortini/eve_mapmaker)
+[![Repo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DonatFortini/eve_mapmaker](https://github.com/DonatFortini/firefront-gis))
 
 Application desktop moderne pour la création de cartes SIG (Système d'Information Géographique)
 
-- 🔧 Tech Stack: Tauri (Rust/ React ts), Qgis
+- 🔧 Tech Stack: Tauri (Rust)
 
 - 🎯 Features:
 
